@@ -4,7 +4,7 @@
 ---
 
 ## About me
-I build end-to-end web apps with a focus on AI/ML integrations. From disease prediction models to real-time hospital queue systems — I love solving real-world problems with code. Currently in 2nd year at SRMS CET Bareilly, actively looking for **internship opportunities**.
+I build end-to-end web apps with a focus on AI/ML integrations. From disease prediction models to real-time hospital queue systems — I love solving real-world problems with code. Currently in 3rd year at SRMS CETR Bareilly, actively looking for **internship opportunities**.
 
 ---
 
